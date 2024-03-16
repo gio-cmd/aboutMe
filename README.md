@@ -1,21 +1,19 @@
-🎓 I am Tapajyoti Bose, a Front End Web Developer (specializing in React Applications) and a Top Rated Freelancer on Upwork. I am also Pursuing my Bachelor in Computer Science & Engineering and will graduate in mid-2022.
+<h1 align="center">Hi 👋, I'm Giorgi Vanishvili</h1>
+<h3 align="center">A passionate frontend developer from Georgia</h3>
 
-👨‍💻 I enjoy contributing to Open Source Projects and have contributed to several Gigantic Organizations including, Material UI, Microsoft, Amazon, Webhint, and countless others. I am really enthusiastic about learning new technology. In 2021, I learned Next.js, Progressive Web App (PWA), GraphQL, Micro-Frontend Architecture and Blockchain development & DApps. I got started with Freelancing and Blogging quite recently and made a name for myself.
+- 🌱 I’m currently learning **Javascript, HTML, CSS, Python**
 
-🎸 Outside the world of tech too, I enjoy pushing myself to develop new skills. My hobbies range from guitar, break dancing (hip-hop), sketching, and touch typing to some whacky ones like writing with my left hand.
+- 👨‍💻 All of my projects are available in my github [https://github.com/gio-cmd](https://github.com/gio-cmd)
 
-📚 I also love reading books on personal development & financial literacy. My favorite ones are The Compound Effect by Darren Hardy in the genre of personal development and Rich Dad Poor Dad by Robert Kiyosaki in the genre of financial literacy.
+- 📫 How to reach me **vanishvilig1org2@gmail.com**
 
-✈️ I love traveling too. I have been on solo trips to Bhutan in 2018 and to Hyderabad, India in 2021.
+- ⚡ Fun fact **I think programming got me**
 
-🏅 Achievements
-📝 5+ Times Global #1 Weekly Blog Writer at Dev (January 2022)
-🏆 Top Rated at Upwork (September 2021)
-⏫ Rising Talent at Upwork (July 2021)
-🚁 Mars 2020 Helicopter Mission Contributor for contributing to a library (numpy) used by NASA to fly the Ingenuity Helicopter on Mars (April 2021)
-⭐ Global rank 750 at Google Kickstart 2020 Round H (November 2020)
-🤝 Hacktober Fest Participant for adding quality pull requests at Hacktober Fest 2020 (October 2020)
-🥇 Winner of Coding Competition at RCCIIT (March 2020)
-🥈 1st Runner up at Coding Competition at Heritage Institute of Technology (September 2019)
-🥉 2nd Runner up at Coding Competition at GCECT (March 2019)
-🛠️ Skills
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://fb.com/giorgi vanishvili" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="giorgi vanishvili" height="30" width="40" /></a>
+<a href="https://discord.gg/giorgivanishvili" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="giorgivanishvili" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
