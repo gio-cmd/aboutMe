@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Giorgi Vanishvili</h1>
 <h3 align="center">A passionate frontend developer from Georgia</h3>
 
-- 🌱 I’m currently learning **Javascript, HTML, CSS, Python**
+- 🌱 I’m currently learning **React, node, tailwind**
 
 - 👨‍💻 All of my projects are available in my github [https://github.com/gio-cmd](https://github.com/gio-cmd)
 
